@@ -1,0 +1,1 @@
+   Crie uma função que imprime um único caractere na saída padrão.
